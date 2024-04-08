@@ -18,7 +18,7 @@ Leveraging AWS, we will be creating three different virtual machines; a Security
 -  <b>Ubuntu (Linux) </b> 
 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Network Topology: <br/>
