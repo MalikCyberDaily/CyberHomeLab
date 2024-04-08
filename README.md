@@ -176,6 +176,8 @@ Download Splunk onto Security Tools (Ubuntu Desktop)  <br/>
    - Log into dashboard.  <br/>
 <br/>
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/><br/>
 Download Universal Forwarder on Windows  <br/>
    - Resource: https://geek-university.com/install-a-splunk-forwarder-on-windows/  <br/>
    - Go to Splunk Enterprise -> Settings -> Forwarding and receiving -> Configure receiving -> Ensure "Listen on this port" has 9997. If not, add 9997 as a listener.  <br/>
