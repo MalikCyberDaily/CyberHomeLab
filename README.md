@@ -1,4 +1,5 @@
 <h1>MalikCyber - AWS Cloud Cybersecurity Homelab Red/Blue Team</h1>
+<img src="https://i.imgur.com/q8EvEn3.png" height="80%" width="80%" alt="Red Team - Blue Team Cyber Home Lab Cloud Environment"/>
 
 <h2>Description</h2>
 Leveraging AWS, we will be creating three different virtual machines; a Security Tools Box (Ubuntu), A Kali Linux Attacker Machine, and a Windows 10 Workstation. All three of these machines will be connected togeher in its own Isolated network via a VPC(Virtual Private Cloud). Once completed, we'll be able to successfully run Red/Blue team simulations. 
